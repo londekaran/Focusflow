@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Dark window behind the first frame when the phone is in dark mode. -->
+    <style name="Theme.Focusflow" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">#FF0C0E08</item>
+    </style>
+</resources>
